@@ -10,7 +10,7 @@
 
 - 🔭 Hands on **Figma and Antigravity IDE.**
 
-- 🌱 Currently working in **Tech Mahindra.**
+- 🌱 Currently working in **Tech Mahindra** as a **Software Engineer.**
 
 - 👯 Published an **app named SimpleCode using ReactJs, JSX, JS.**
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact : **Coding is like DRUGS but errors are Addictions.**
 
-- 🏆Achievements : **Earned customer appreciation on four occasions. JavaScript Basic certification from Hacker Rank.**
+- 🏆Achievements : **Earned appreciation on four occasions. JavaScript Basic certification from Hacker Rank.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

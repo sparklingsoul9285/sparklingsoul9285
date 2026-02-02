@@ -10,7 +10,7 @@
 
 - 🔭 Hands on **Figma and Antigravity IDE.**
 
-- 🌱 Currently working in **Tech Mahindra** as a **Software Engineer.**
+- 🌱 Currently working in **Tech Mahindra** as a **Associate Technical Support (Front End Dev).**
 
 - 👯 Published an **app named SimpleCode using ReactJs, JSX, JS.**
 

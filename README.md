@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/onkar9285" target="blank"><img src="https://img.shields.io/twitter/follow/onkar9285?logo=twitter&style=for-the-badge" alt="onkar9285" /></a> </p>
 
-- 🔭 Hands on **Figma and Antigravity IDE.**
+- 🔭 Hands on **ReactJS & Vite.**
 
-- 🌱 Currently working in **Tech Mahindra** as a **Associate Technical Support (Front End Dev).**
+- 🌱 Currently working in **Tech Mahindra** as a **Technical Support.**
 
 - 👯 Published an **app named SimpleCode using ReactJs, JSX, JS.**
 
